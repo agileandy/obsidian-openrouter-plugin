@@ -1,0 +1,10 @@
+{
+	"id": "openrouter",
+	"name": "OpenRouter Chat",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Chat with a wide variety of AI models (Claude, GPT, Llama, Mistral, etc.) using OpenRouter API. Features include model filtering and grouping, search, marking of free models, and direct integration with Obsidian notes. Requires an OpenRouter account and API key (available at openrouter.ai/keys) - never share your API key with others.",
+	"author": "AgileAndy",
+	"authorUrl": "https://github.com/agileandy/obsidian-openrouter-plugin",
+	"isDesktopOnly": false
+}
